@@ -1,0 +1,60 @@
+.background {
+    background-color: #fceae8;
+    border-radius: 15px;
+    height: 450px;
+}
+
+.button {
+    background-color: #ff136f;
+    color: white;
+    width: 100px;
+    font-weight: 700;
+    border-radius: 10%;
+    border: none;
+}
+
+input {
+    width: 350px;
+    height: 50px;
+    color: red;
+}
+
+.categories img {
+    height: 100px;
+}
+
+.categories1 img {
+    height: 400px;
+    width: 400px;
+}
+
+.shadow {
+    border: none;
+}
+
+.pand-card-footer {
+    border: none;
+    background-color: white;
+}
+
+.bg1 {
+    background-color: #ffa500;
+    color: white;
+    border-radius: 50px 20px;
+}
+
+.bg2 {
+    background-color: #da70d6;
+    color: white;
+    border-radius: 50px 20px;
+}
+
+.bg3 {
+    background-color: #0000ff;
+    color: white;
+    border-radius: 50px 20px;
+}
+
+.radius {
+    border-radius: 15px;
+}
